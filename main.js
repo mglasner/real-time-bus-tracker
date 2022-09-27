@@ -1,4 +1,4 @@
-import { createBuses, realTimeData } from "./map.js";
+import { createBuses, realTimeData } from "./mapanimation.js";
 const buses = createBuses();
 
 async function run() {
@@ -14,7 +14,7 @@ async function run() {
             }
         })
     }
-    setTimeout(run, 10000);
+    setTimeout(run, 5000);
 }
 
 run()

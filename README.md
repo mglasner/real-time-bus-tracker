@@ -1,8 +1,9 @@
-# *Real time bus tracker*
+# *Project title: Real time bus tracker*
 ![alt text](images/screenshot.png "Real time bus tracker")
 
-## About
-    This project about showing the real time location of the public transportation buses for the city of Boston.
+## Description.
+    This project about showing the real time location
+    of the public transportation buses for the city of Boston.
 
 ## Installation.
     Just download de code files and load index.html into the browser.
@@ -10,12 +11,10 @@
 ## Usage.
     Hover over any bus to display the bus id.
 
-
 ## Roadmap of future improvements
 1. Add more routes.
 2. Add more locations all over the world.
 
-<br/><br/>
 ## MIT License
 Copyright (c) 2022 Matías Glasner
 
