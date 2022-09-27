@@ -4,6 +4,9 @@
 ## Description.
     This project about showing the real time location
     of the public transportation buses for the city of Boston.
+    The public data come from the mbta public API,
+    for more information visit (www.mbta.com).
+    And the map come from the mapbox API.
 
 ## Installation.
     Just download de code files and load index.html into the browser.
